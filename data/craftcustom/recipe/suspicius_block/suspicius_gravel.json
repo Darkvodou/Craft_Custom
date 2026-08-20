@@ -1,37 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "building",
-  "ingredients": [
-    {
-      "item": "minecraft:sand"
-    },
-    {
-      "item": "minecraft:gravel"
-    },
-    {
-      "item": "minecraft:sand"
-    },
-    {
-      "item": "minecraft:gravel"
-    },
-    {
-      "item": "minecraft:gunpowder"
-    },
-    {
-      "item": "minecraft:gravel"
-    },
-    {
-      "item": "minecraft:sand"
-    },
-    {
-      "item": "minecraft:gravel"
-    },
-    {
-      "item": "minecraft:sand"
-    }
+  "key": {
+    "X": "minecraft:gunpowder",
+    "A": "minecraft:sand",
+    "B": "minecraft:gravel"
+  },
+  "pattern": [
+    "ABA",
+    "BXB",
+    "ABA"
   ],
   "result": {
-    "id": "minecraft:suspicious_gravel",
-    "count": 4
+    "count": 4,
+    "id": "minecraft:suspicious_gravel"
   }
 }

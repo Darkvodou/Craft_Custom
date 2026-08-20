@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:fire_coral",
+        "minecraft:fire_coral",
+        "minecraft:fire_coral",
+        "minecraft:fire_coral"
+    ],
+    "result": {
+        "id": "minecraft:fire_coral_block",
+        "count": 1
+    },
+    "group": "Raw blocks"
+}

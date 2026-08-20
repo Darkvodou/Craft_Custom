@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:gold_block",
+    "result": {
+        "id": "minecraft:raw_gold_block",
+        "count": 1
+    },
+    "group": "Raw blocks"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "misc",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:charcoal"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:black_dye",
+    "count": 1
+  }
+}

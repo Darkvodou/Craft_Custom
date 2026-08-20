@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:cobbled_deepslate",
+    "result": {
+        "id": "minecraft:deepslate",
+        "count": 1
+    },
+    "group": "Raw blocks"
+}

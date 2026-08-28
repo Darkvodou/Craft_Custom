@@ -2,14 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "X": "minecraft:air",
     "A": "minecraft:turtle_scute",
     "B": "minecraft:pufferfish"
   },
   "pattern": [
-    "XAX",
+    " A ",
     "ABA",
-    "XAX"
+    " A "
   ],
   "result": {
     "count": 1,

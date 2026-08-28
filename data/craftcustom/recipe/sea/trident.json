@@ -2,7 +2,6 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "X": "minecraft:air",
     "A": "minecraft:diamond_sword",
     "B": "minecraft:nautilus_shell",
     "C": "minecraft:heart_of_the_sea",
@@ -11,7 +10,7 @@
   "pattern": [
     "AAA",
     "BCB",
-    "XDX"
+    " D "
   ],
   "result": {
     "count": 1,

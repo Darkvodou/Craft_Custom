@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "X": "minecraft:air",
+    "A": "minecraft:turtle_scute",
+    "B": "minecraft:pufferfish"
+  },
+  "pattern": [
+    "XAX",
+    "ABA",
+    "XAX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:nautilus_shell"
+  }
+}

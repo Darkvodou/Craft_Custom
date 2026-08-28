@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": "minecraft:turtle_scute",
+    "B": "minecraft:lapis_block",
+    "C": "minecraft:tide_armor_trim_smithing_template",
+    "D": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "pattern": [
+    "AAA",
+    "CBD",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:heart_of_the_sea"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "X": "minecraft:air",
+    "A": "minecraft:diamond_sword",
+    "B": "minecraft:nautilus_shell",
+    "C": "minecraft:heart_of_the_sea",
+    "D": "minecraft:stick"
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "XDX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  }
+}
